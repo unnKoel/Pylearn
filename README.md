@@ -48,3 +48,7 @@ pylint --generate-rcfile > .pylintrc
   Using this tool makes notes descriptive and including the runable python statements as examples. it's capable of recording your whole learning process and can be reused as other's reference that should really be called as self-document. It support to mix using markdown syntax and python statements to take notes.
 
   The Python extension of VS Code directly has this tool, Once you'v installed it, can directly use Jupyter notebooks, Refer to [Jupyter notebooks](https://code.visualstudio.com/docs/languages/python#_jupyter-notebooks) 
+
+#### Reading later
+- [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl)
+- [Remote development in WSL](https://code.visualstudio.com/docs/remote/wsl-tutorial)
